@@ -1,0 +1,4 @@
+A1 filter=lfs diff=lfs merge=lfs -text
+A2 filter=lfs diff=lfs merge=lfs -text
+A3 filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
